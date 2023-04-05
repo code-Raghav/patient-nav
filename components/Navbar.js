@@ -29,14 +29,14 @@ export default function Navbar() {
                     href="#"
                     className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    Team
+                    Find Hospitals
                   </a>
 
                   <a
                     href="#"
                     className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    Projects
+                    Past History
                   </a>
 
                   <a
@@ -50,7 +50,7 @@ export default function Navbar() {
                     href="#"
                     className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    Reports
+                    About Us
                   </a>
                 </div>
               </div>
@@ -125,14 +125,14 @@ export default function Navbar() {
                   href="#"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Team
+                  Find Hospitals
                 </a>
 
                 <a
                   href="#"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Projects
+                  Past History
                 </a>
 
                 <a
@@ -146,7 +146,7 @@ export default function Navbar() {
                   href="#"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Reports
+                  About Us
                 </a>
               </div>
             </div>
